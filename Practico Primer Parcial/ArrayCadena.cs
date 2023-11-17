@@ -40,4 +40,28 @@ public class ArrayCadena
     {
         return arrayB.Elementos.Except(Elementos).ToArray();
     }
+     public void DiferenciaArrayCadenasByA(claseArrayA)
+     {
+        int indice = 0;
+        claseArrayA C = new claseArray(ArrayCadenas.Length);
+        for (int i = 0; i < ArrayCadenas.Length; i++)
+        {
+            bool existe = false;
+            string datoB = ArrayCadenas[i];
+            for(int j = 0; j< ArrayCadenas.Length; j++)
+            {
+               if (datoB == A.ArrayCadenas[j])
+               {
+                    existe = true;
+                    break;
+               }
+            }
+            if (!existe)
+            {
+                C.ArrayCadenas[indice] = datoB;
+                indice++;
+            }
+        }
+        C.MmostrarArray();
+     }
 }

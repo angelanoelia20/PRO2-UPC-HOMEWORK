@@ -46,6 +46,7 @@
         Console.WriteLine($"---------------------------------");
         Console.WriteLine($"Diferencia: {string.Join(", ", arrayCadenaA.Diferencia(arrayCadenaB))}");
         Console.WriteLine($"---------------------------------");
+        Console.WriteLine($"
         arrayCadenaA.Invertir();
     }
 }
