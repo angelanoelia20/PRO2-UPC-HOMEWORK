@@ -1,0 +1,14 @@
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.AssemblyInfoInputs.cache
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.AssemblyInfo.cs
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.csproj.CoreCompileInputs.cache
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\bin\Debug\net7.0\Practico Primer Parcial.exe
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\bin\Debug\net7.0\Practico Primer Parcial.deps.json
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\bin\Debug\net7.0\Practico Primer Parcial.runtimeconfig.json
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\bin\Debug\net7.0\Practico Primer Parcial.dll
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\bin\Debug\net7.0\Practico Primer Parcial.pdb
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.dll
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\refint\Practico Primer Parcial.dll
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.pdb
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\Practico Primer Parcial.genruntimeconfig.cache
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Practico Primer Parcial\obj\Debug\net7.0\ref\Practico Primer Parcial.dll
