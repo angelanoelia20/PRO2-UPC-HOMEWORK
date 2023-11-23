@@ -1,0 +1,14 @@
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.AssemblyInfoInputs.cache
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.AssemblyInfo.cs
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.csproj.CoreCompileInputs.cache
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.dll
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\refint\Serie Recursividad.dll
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.pdb
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\bin\Debug\net7.0\Serie Recursividad.exe
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\bin\Debug\net7.0\Serie Recursividad.deps.json
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\bin\Debug\net7.0\Serie Recursividad.runtimeconfig.json
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\bin\Debug\net7.0\Serie Recursividad.dll
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\bin\Debug\net7.0\Serie Recursividad.pdb
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\Serie Recursividad.genruntimeconfig.cache
+C:\GitHub\angela\PRO2-UPC-HOMEWORK\Serie Recursividad\obj\Debug\net7.0\ref\Serie Recursividad.dll
